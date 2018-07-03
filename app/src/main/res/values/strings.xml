@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="ingredient_list">Ingredients List:</string>
+    <string name="bullet_item"><li>%1$s</li>\n</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_to_widget">Add to widget</string>
+</resources>
